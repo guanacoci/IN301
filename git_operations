@@ -1,0 +1,27 @@
+connecter à github et ouvrir un compte
+
+ajouter répertoire IN301 en cliquant croix en haut à droite (add a new repository)
+
+ouvrir un terminal et aller à l'endroit où l'on souhaite ajouter le répertoire
+
+créer une copie locale:
+git clone https://github.com/moi/IN301
+en remplaçant "moi" par votre nom d'utilisateur
+
+Sur votre ordinateur, aller dans le répertoire IN301 et créer le répertoire TD1
+ajoutez y les fichiers ??? nécessaires à la compilation
+
+Retournez dans le répertoire parent, et ajoutez le dossier TD1 sur github
+git add TD1
+git commit 
+git push
+
+
+
+
+
+
+
+
+
+
